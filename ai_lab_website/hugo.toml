@@ -1,0 +1,4 @@
+baseURL = 'https://doeschbj.github.io/'
+languageCode = 'en-us'
+title = 'Personal Website'
+theme = 'ananke'

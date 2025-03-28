@@ -1,0 +1,3 @@
+[submodule "ai_lab_website/themes/ananke"]
+	path = ai_lab_website/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
