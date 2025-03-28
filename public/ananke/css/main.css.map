@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/Master/Documents/Repositiories/doeschbj.github.io/ai_lab_website",
+	"sourceRoot": "C:/Users/Master/Documents/Repositiories/doeschbj.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
