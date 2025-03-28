@@ -1,0 +1,11 @@
+baseURL: "https://doeschbj.github.io/"
+languageCode: "en-us"
+title: "Björn Döschl"
+theme: "ananke"
+relativeURLs: true
+canonifyURLs: true
+
+
+caches:
+  images:
+    dir: ":cacheDir/images"
